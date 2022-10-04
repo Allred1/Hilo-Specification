@@ -1,0 +1,5 @@
+C:\Users\Ace Fagan\Desktop\Programin\Git\Hilo-Specification\obj\Debug\net6.0\Hilo-Specification.csproj.AssemblyReference.cache
+C:\Users\Ace Fagan\Desktop\Programin\Git\Hilo-Specification\obj\Debug\net6.0\Hilo-Specification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ace Fagan\Desktop\Programin\Git\Hilo-Specification\obj\Debug\net6.0\Hilo-Specification.AssemblyInfoInputs.cache
+C:\Users\Ace Fagan\Desktop\Programin\Git\Hilo-Specification\obj\Debug\net6.0\Hilo-Specification.AssemblyInfo.cs
+C:\Users\Ace Fagan\Desktop\Programin\Git\Hilo-Specification\obj\Debug\net6.0\Hilo-Specification.csproj.CoreCompileInputs.cache
