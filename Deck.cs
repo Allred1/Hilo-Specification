@@ -1,22 +1,18 @@
+using System;
+using System.Collections.Generic;
+class Cards{
+    static int Main(string[] args){
+        var random = new Random();
+        var cards = new List<int>{1,2,3,4,5,6,7,8,9,10,11,12,13};
+        int index = random.Next(cards.Count);
+        Console.WriteLine(cards[index]);
+        return index;
+    }
 
-List<int> cards = new List<int>(25);
-cards.Add(1);
-cards.Add(2);
-cards.Add(3);
-cards.Add(4);
-cards.Add(5);
-cards.Add(6);
-cards.Add(7);
-cards.Add(8);
-cards.Add(9);
-cards.Add(10);
-cards.Add(11);
-cards.Add(12);
-cards.Add(13);
-Console.WriteLine(cards.Count);
-
-
-
+    public bool removeCardFromDeck(index){
+        if (index)
+    }
+}
 
 
 // compute score

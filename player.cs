@@ -1,27 +1,34 @@
-// Player
-//     Guess
-//         guess higher or lower
-//     PlayAgain
-//         ask if play again. If no, end it. If yes, repeat. 
 
 
-class Player {
-    // properties of the object
-    int guess;
-    bool playAgain;
-
-
-    // constructor
-    public Player(int guess, bool playAgain) {
-        guess = 0;
-        playAgain = false;
+// create Player class
+class Player
+{
+    // method that gets a user's guess
+    public string getGuess() {
+        Console.Write("Higher or lower? [h/l]: ");
+        string guess = Console.ReadLine();
+        return guess;
     }
 
-    // a method to prompt the user for a guess and return that guess
-    static int getGuess() {
-        Console.Write("Higher or lower? [h/l]: ");
-        int guess = int.Parse(Console.ReadLine());
-        return guess;
+
+    // method that asks the user if they want to play again.
+    // returns true until they say no.
+    public bool getPlayAgain() {
+        bool startAgain = true;
+
+        Console.Write("Play again? [y/n]: ");
+        string answer = Console.ReadLine();
+
+        if (answer == "y") 
+        {
+            startAgain = true;
+        }
+        else if (answer == "n") 
+        {
+            startAgain = false;
+        }
+
+        return startAgain;
     }
 
 }
