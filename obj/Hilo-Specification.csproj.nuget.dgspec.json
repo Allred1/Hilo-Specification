@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ace Fagan\\Desktop\\Programin\\Git\\Hilo-Specification\\Hilo-Specification.csproj": {}
+    "C:\\Users\\allre\\Documents\\Git\\Hilo-Specification\\Hilo-Specification.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ace Fagan\\Desktop\\Programin\\Git\\Hilo-Specification\\Hilo-Specification.csproj": {
+    "C:\\Users\\allre\\Documents\\Git\\Hilo-Specification\\Hilo-Specification.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ace Fagan\\Desktop\\Programin\\Git\\Hilo-Specification\\Hilo-Specification.csproj",
+        "projectUniqueName": "C:\\Users\\allre\\Documents\\Git\\Hilo-Specification\\Hilo-Specification.csproj",
         "projectName": "Hilo-Specification",
-        "projectPath": "C:\\Users\\Ace Fagan\\Desktop\\Programin\\Git\\Hilo-Specification\\Hilo-Specification.csproj",
-        "packagesPath": "C:\\Users\\Ace Fagan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ace Fagan\\Desktop\\Programin\\Git\\Hilo-Specification\\obj\\",
+        "projectPath": "C:\\Users\\allre\\Documents\\Git\\Hilo-Specification\\Hilo-Specification.csproj",
+        "packagesPath": "C:\\Users\\allre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\allre\\Documents\\Git\\Hilo-Specification\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Ace Fagan\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\allre\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

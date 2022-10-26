@@ -3,3 +3,18 @@ C:\Users\Ace Fagan\Desktop\Programin\Git\Hilo-Specification\obj\Debug\net6.0\Hil
 C:\Users\Ace Fagan\Desktop\Programin\Git\Hilo-Specification\obj\Debug\net6.0\Hilo-Specification.AssemblyInfoInputs.cache
 C:\Users\Ace Fagan\Desktop\Programin\Git\Hilo-Specification\obj\Debug\net6.0\Hilo-Specification.AssemblyInfo.cs
 C:\Users\Ace Fagan\Desktop\Programin\Git\Hilo-Specification\obj\Debug\net6.0\Hilo-Specification.csproj.CoreCompileInputs.cache
+C:\Users\allre\Documents\Git\Hilo-Specification\bin\Debug\net6.0\Hilo-Specification.exe
+C:\Users\allre\Documents\Git\Hilo-Specification\bin\Debug\net6.0\Hilo-Specification.deps.json
+C:\Users\allre\Documents\Git\Hilo-Specification\bin\Debug\net6.0\Hilo-Specification.runtimeconfig.json
+C:\Users\allre\Documents\Git\Hilo-Specification\bin\Debug\net6.0\Hilo-Specification.dll
+C:\Users\allre\Documents\Git\Hilo-Specification\bin\Debug\net6.0\Hilo-Specification.pdb
+C:\Users\allre\Documents\Git\Hilo-Specification\obj\Debug\net6.0\Hilo-Specification.csproj.AssemblyReference.cache
+C:\Users\allre\Documents\Git\Hilo-Specification\obj\Debug\net6.0\Hilo-Specification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allre\Documents\Git\Hilo-Specification\obj\Debug\net6.0\Hilo-Specification.AssemblyInfoInputs.cache
+C:\Users\allre\Documents\Git\Hilo-Specification\obj\Debug\net6.0\Hilo-Specification.AssemblyInfo.cs
+C:\Users\allre\Documents\Git\Hilo-Specification\obj\Debug\net6.0\Hilo-Specification.csproj.CoreCompileInputs.cache
+C:\Users\allre\Documents\Git\Hilo-Specification\obj\Debug\net6.0\Hilo-Specification.dll
+C:\Users\allre\Documents\Git\Hilo-Specification\obj\Debug\net6.0\refint\Hilo-Specification.dll
+C:\Users\allre\Documents\Git\Hilo-Specification\obj\Debug\net6.0\Hilo-Specification.pdb
+C:\Users\allre\Documents\Git\Hilo-Specification\obj\Debug\net6.0\Hilo-Specification.genruntimeconfig.cache
+C:\Users\allre\Documents\Git\Hilo-Specification\obj\Debug\net6.0\ref\Hilo-Specification.dll
